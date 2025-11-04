@@ -10,6 +10,7 @@ Le projet peut être utile pour les professionnels de santé, les patients et le
 ---
 
 ## 🧩 Structure du projet
+```
 mini-projet-scraping-pharmacie/
 ├── projet/
 │ ├── Scraping.py → collecte les données depuis le site web
@@ -18,7 +19,7 @@ mini-projet-scraping-pharmacie/
 │ └── Visualisation.py → création de graphiques et visualisations
 ├── medicaments__A_Z.xlsx → fichier Excel avec les données extraites
 └── Rapport.pdf → rapport détaillé du projet
-
+```
 
 ---
 
@@ -51,7 +52,7 @@ Les scripts doivent être exécutés dans cet ordre :
 - Visualisation.py : crée des graphiques (nuage de points, histogrammes, boxplots, barplots des médicaments et mots fréquents).
 
 ---
-##📊 Exemple de résultats
+## 📊 Exemple de résultats
 - Extraction de toutes les pages du site classées de A à Z
 
 - Nettoyage et structuration des données pour l'analyse
